@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sayed Mokhtar</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayedmokhtar&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
 <h3 align="center">
  graduated from infromation technologi | C++ Developer | Problem Solver
 </h3>
 
 ---
-
+  
 ## 🚀 About Me
 
 - 💻 I learned **C Programming** and **C++**

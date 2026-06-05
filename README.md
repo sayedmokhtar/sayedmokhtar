@@ -82,7 +82,6 @@
   </a> 
 </p>
 <p>sayed.mokhtar289@gmail.com</p>
-<p> <a herf="http://healthcare.gammal.tech">Healthcare gammal tech </a> </p>
 
 ---
 

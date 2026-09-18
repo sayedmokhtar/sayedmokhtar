@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
- graduated from infromation technologi | C++ Developer | Problem Solver
+ graduated from infromation technologi
 </h3>
 
 ---
